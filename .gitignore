@@ -1,0 +1,22 @@
+# Keil MDK
+*.uvgui*
+*.bak
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.map
+*.lst
+*.sct
+*.dep
+*.crf
+*.lnp
+*.tra
+# CubeMX
+.MX_Project
+cubemx.log
+# 编译目录
+build/
+Debug/
+Release/
